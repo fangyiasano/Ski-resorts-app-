@@ -5,7 +5,7 @@ This application is designed to provide interactive visual analytics for ski res
 ## Features
 
 ### Interactive Maps and Charts
-**Resort Map:** Displays ski resorts on a density map, filterable by price and amenities like summer skiing, night skiing, and snow parks.
+- **Resort Map:** Displays ski resorts on a density map, filterable by price and amenities like summer skiing, night skiing, and snow parks.
  ![ScreenRecording2024-08-21at22 54 46-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/be402c40-43a7-482e-985d-002d2a6b25b4)
  ![ScreenRecording2024-08-21at23 17 49-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/16d95ede-6f70-4b1c-ac0a-078c6d437ca8)
 
