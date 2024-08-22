@@ -1,4 +1,4 @@
-## Overview
+## Project Overview
 
 This application is designed to provide interactive visual analytics for ski resorts wordwide, integrating multiple metrics such as elevation, price, slope length, and snow cannons availability.
 
